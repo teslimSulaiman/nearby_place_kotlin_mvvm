@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NearbyPlacesMVVM</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_location_permission">grant permission</string>
+    <string name="text_location_permission">you have to grant permission to use the App</string>
+    <string name="ok">OK</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="place_image">place image</string>
+    <string name="error">Error in response</string>
+    <string name="no_internet_connection">NO INTERNET CONNECTION</string>
+    <string name="permission_not_granted">permission not granted, you cant use the app</string>
+    <string name="you_have_to_grant_permission_to_use">You have to grant permission to use the App</string>
+</resources>
